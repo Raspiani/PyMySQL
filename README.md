@@ -7,3 +7,4 @@ Python dan MySQL
 - PyMySQL - Memasukan Nilai ke Tabel Versi 2 (Memasukan Nilai Lanjutan)
 - PyMySQL - Membuat Tabel Baru di Database dan Memasukan Nilainya dari CSV File
 - PyMySQL - Operasi Membaca dalam Database
+- PyMySQL - Operasi Update
