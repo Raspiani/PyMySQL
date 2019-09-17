@@ -8,3 +8,4 @@ Python dan MySQL
 - PyMySQL - Membuat Tabel Baru di Database dan Memasukan Nilainya dari CSV File
 - PyMySQL - Operasi Membaca dalam Database
 - PyMySQL - Operasi Update
+- PyMySQL - Operasi Hapus
